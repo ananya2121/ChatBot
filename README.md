@@ -1,2 +1,2 @@
-# NajChatterbot
-Simple English chatbot using python 
+# ChatBot
+Developed a ChatBot using ChatterBot Library.
